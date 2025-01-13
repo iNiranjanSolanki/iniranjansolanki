@@ -1,68 +1,112 @@
-<h1 align="center">Hi there! 👋 I'm Niranjan Solanki</h1>
-<h3 align="center">A passionate MERNSTACK Developer from India 🇮🇳</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iniranjansolanki" alt="GitHub Profile Trophy" />
   </a>
 </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iniranjansolanki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h2 align="center" >Hi there, I'm Niranjan Solanki <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60" /></h2>
+<h3 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=700&lines=A+passionate+Software+developer+from+India" alt="Typing SVG" /></a></h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- 🔭 I’m currently working remotely with **HashedBit Innovations, Gurugram HR**.
+### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
 
-- 👨‍💻 All of my projects are available at [https://theninjan.vercel.app/](https://theninjan.vercel.app/).
+A proficient Full Stack Developer with extensive experience in developing scalable frontend and backend systems and full-stack applications. Eager to bring a fresh perspective, adaptability, and enthusiasm to a dynamic team. Passionate about learning new technologies and frameworks to improve the quality of work.  
 
-- 💬 I love to talk about **ReactJS, NodeJS, ExpressJS, MySQL, MongoDB, JavaScript, TypeScript, TailwindCSS**.
-
+- ❤️ I’m currently working as a **MERN Stack Developer** at **HashedBit Innovations** (Remote).
+- ❤️ I’m currently in love with <b>Full Stack Applicatons Development</b>.
+- 🌱 I’m currently learning **Advance Back-end Development and Cloud Computing**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, MongoDB, MySQL, React.js, Node.js, Express.js, NextJS, Tailwind, Git & GitHub, TypeScript , Java**
 - 📫 You can reach me at **iniranjansolanki@gmail.com**.
-
 - 📄 You can view my resume [here](https://drive.google.com/file/d/1bcPsLqN0RGSWU7Ed9_7qQwlhZ-E8I6KH/view?usp=sharing).
 <br/>
 <br/>
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="text-decoration: none;">
-  <a href="https://linkedin.com/in/niranjansolanki" target="">
-    <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-  <a href="https://twitter.com/the_ninjan" target="">
-    <img src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-  <a href="https://www.instagram.com/niranjan_singh.1/" target="">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-<br/>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="text-decoration: none;"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdG9qnL6YBPohLsY-yowMoSV1HQsID8xHc1xqRBj8YUg&s" alt="express" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952gq9og1khg787r8aml4pswwoamg3uzlzwdkyesozx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-</a>    &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->   
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MeCjdmu8yZqHM-ErMdYez3QjVsPJobYZD_k7DwU3kw&s" alt="nextjs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces --> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Inserting 4 non-breaking spaces --> 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 🌐 Socials:
+<p align="center">  
+ <a href="https://www.linkedin.com/in/niranjansolanki/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Niranjan Solanki"/>
+ </a>
+ <a href="https://github.com/iniranjansolanki" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="iniranjansolanki" />
+ </a>
+ <a href="https://x.com/theninjan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/niranjan_singh.1/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Niranjan Solanki" />
+ </a> 
+   <a href="iniranjansolanki@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Niranjan Solanki" />
+ </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iniranjansolanki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Stats
+<p align=center >
+ <a href="https://leetcode.com/u/NiranjanSolanki/" target="_blank">
+ <img align="center" src='https://leetcard.jacoblin.cool/NiranjanSolanki?hide=ranking&border=0&radius=21' width='380"'>
+</a>
+<a href="https://www.geeksforgeeks.org/user/udaysharma2003/" target="_blank">
+</a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 💻 Tech Stack:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iniranjansolanki&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,expressjs,nextjs,tailwind,bootstrap" />
+  </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,mysql,mongodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,npm" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,vite" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 📊 GitHub Stats:
+
+<p align="center">
+<!-- <img src="https://github.com/users/iNiranjanSolanki/achievements/yolo" width="50px"></img>
+<img src="https://github.com/users/iNiranjanSolanki/achievements/pull-shark" width="50px"></img> -->
+<a href="https://github.com/iniranjansolanki/github-readme-stats">
+<img alt="Niranjan Solanki Github Stats" src="https://github-readme-stats.vercel.app/api?username=iniranjansolanki&show_icons=true&count_private=true&theme=react&hide_border=true&background=060A0CD0" />
+</a>
+  <a href="https://github.com/iniranjansolanki/github-readme-stats">
+  <img alt="Niranjan Solanki Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniranjansolanki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&background=060A0CD0" />
+  </a>
+  
+
+</p>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=iniranjansolanki">
+</a>
+<a href="https://github.com/iniranjansolanki?tab=followers"><img src="https://img.shields.io/github/followers/iniranjansolanki?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
