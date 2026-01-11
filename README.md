@@ -39,7 +39,7 @@ A proficient Full Stack Developer with extensive experience in developing scalab
  <a href="https://x.com/theninjan" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="[https://www.instagram.com/niranjan_singh.1/](https://www.instagram.com/i.niranjansingh/)" target="_blank">
+ <a href="https://www.instagram.com/niranjan_singh.1/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Niranjan Solanki" />
  </a> 
    <a href="mailto:iniranjansolanki@gmail.com" target="_blank">
