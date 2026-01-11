@@ -53,7 +53,7 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Stats
 <p align=center >
  <a href="https://leetcode.com/u/iNiranjanSolanki/" target="_blank">
- <img align="center" src='https://leetcard.jacoblin.cool/NiranjanSolanki?hide=ranking&border=0&radius=21' width='380"'>
+ <img align="center" src='https://leetcard.jacoblin.cool/iNiranjanSolanki?hide=ranking&border=0&radius=21' width='380"'>
 </a>
 <a href="https://www.geeksforgeeks.org/user/udaysharma2003/" target="_blank">
 </a>
