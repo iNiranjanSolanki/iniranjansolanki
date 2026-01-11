@@ -83,13 +83,13 @@ A proficient Full Stack Developer with extensive experience in developing scalab
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### 📊 GitHub Stats:
+ <!--### 📊 GitHub Stats:--
 
 <p align="center">
-<!-- <img src="https://github.com/users/iNiranjanSolanki/achievements/yolo" width="50px"></img>
-<img src="https://github.com/users/iNiranjanSolanki/achievements/pull-shark" width="50px"></img> -->
+ <img src="https://github.com/users/iNiranjanSolanki/achievements/yolo" width="50px"></img>
+<img src="https://github.com/users/iNiranjanSolanki/achievements/pull-shark" width="50px"></img> 
 <a href="https://github.com/iniranjansolanki/github-readme-stats">
 <img alt="Niranjan Solanki Github Stats" src="https://github-readme-stats.vercel.app/api?username=iniranjansolanki&show_icons=true&count_private=true&theme=react&hide_border=true&background=060A0CD0" />
 </a>
@@ -100,7 +100,7 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 
 </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">  -->
 
 
 ### ❤ Views and Followers
