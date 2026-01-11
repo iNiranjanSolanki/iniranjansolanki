@@ -1,11 +1,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br/>
 <br/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iniranjansolanki" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+<!-- <p align="center"> -->
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=iniranjansolanki" alt="GitHub Profile Trophy" /> -->
+  <!-- </a> -->
+<!-- </p> -->
 
 <h2 align="center" >Hi there, I'm Niranjan Solanki <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60" /></h2>
 <h3 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=700&lines=A+passionate+Software+developer+from+India" alt="Typing SVG" /></a></h3>
@@ -30,7 +30,7 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 
 ### 🌐 Socials:
 <p align="center">  
- <a href="https://www.linkedin.com/in/niranjansolanki/" target="_blank">
+ <a href="https://www.linkedin.com/in/iniranjansolanki/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Niranjan Solanki"/>
  </a>
  <a href="https://github.com/iniranjansolanki" target="_blank">
@@ -39,10 +39,10 @@ A proficient Full Stack Developer with extensive experience in developing scalab
  <a href="https://x.com/theninjan" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/niranjan_singh.1/" target="_blank">
+ <a href="[https://www.instagram.com/niranjan_singh.1/](https://www.instagram.com/i.niranjansingh/)" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Niranjan Solanki" />
  </a> 
-   <a href="iniranjansolanki@gmail.com" target="_blank">
+   <a href="mailto:iniranjansolanki@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Niranjan Solanki" />
  </a> 
 </p>
@@ -52,7 +52,7 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Stats
 <p align=center >
- <a href="https://leetcode.com/u/NiranjanSolanki/" target="_blank">
+ <a href="https://leetcode.com/u/iNiranjanSolanki/" target="_blank">
  <img align="center" src='https://leetcard.jacoblin.cool/NiranjanSolanki?hide=ranking&border=0&radius=21' width='380"'>
 </a>
 <a href="https://www.geeksforgeeks.org/user/udaysharma2003/" target="_blank">
