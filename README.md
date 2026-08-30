@@ -59,6 +59,8 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.vercel.app?user=iNiranjanSolanki&theme=tokyonight)](https://git.io/streak-stats)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 💻 Tech Stack:
