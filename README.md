@@ -52,6 +52,14 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Stats
 <p align=center >
+ <a href="https://streak-stats.vercel.app?user=iNiranjanSolanki&theme=tokyonight" target="_blank">
+ <img align="center" src='https://streak-stats.vercel.app?user=iNiranjanSolanki&theme=tokyonight' width='380"'>
+</a>
+<a href="https://streak-stats.vercel.app?user=iNiranjanSolanki&theme=tokyonight" target="_blank">
+</a>
+</p>
+
+<p align=center >
  <a href="https://leetcode.com/u/iNiranjanSolanki/" target="_blank">
  <img align="center" src='https://leetcard.jacoblin.cool/iNiranjanSolanki?hide=ranking&border=0&radius=21' width='380"'>
 </a>
@@ -59,7 +67,8 @@ A proficient Full Stack Developer with extensive experience in developing scalab
 </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=iNiranjanSolanki&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
